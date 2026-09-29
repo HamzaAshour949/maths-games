@@ -1,0 +1,9 @@
+Copyright (c) 2026 Hamza Ashour. All rights reserved.
+
+This repository holds the published build of "Maths Games", made by Hamza Ashour for his students.
+No licence is granted to copy, modify, redistribute, re-host or create derivative works from any part of it,
+including its code, text, pictures and animations, without written permission from the author.
+Students may play the games at https://hamzaashour949.github.io/maths-games/.
+
+Third-party libraries included in the built page keep their own licences: three.js (MIT, © three.js authors)
+and GSAP (standard "no charge" GSAP licence, © GreenSock / Webflow).
