@@ -3,7 +3,7 @@
 Games for the maths lessons I teach: one game per lesson, for Years 7 to 10.
 Play them at **https://hamzaashour949.github.io/maths-games/**
 
-Each game has levels, and every answer is shown step by step as an animation. It works on phones, tablets and computers. Nothing is sent anywhere: stars are saved on your own device.
+Some games are pictures you can play with: drag, slide and tap to see an idea (nothing is ever typed). Others have levels, and every answer is shown step by step as an animation. It works on phones, tablets and computers. Nothing is sent anywhere: your progress is saved on your own device.
 
 Made by Hamza Ashour.
 
